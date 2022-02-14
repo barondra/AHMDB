@@ -16,26 +16,7 @@ BOOKTITLE="2022 56th Annual Conference on Information Sciences and Systems (CISS
 ADDRESS="Princeton, USA",
 DAYS=9,
 MONTH=mar,
-YEAR=2022,
-KEYWORDS="computer vision; machine learning; video anomaly detection; graph
-convolutional networks",
-ABSTRACT="Detecting an anomalous event in video clips captured from a surveillance
-camera is an important task, especially for security system purposes.
-However, as the probability of such occurrence is very low, automatic
-detection of the anomalous event is then necessary to replace the human
-labor-intensive works. Researchers have developed various methods to solve
-this problem, however, most of the proposed methods limit their definitions
-of anomalous events that might be perceived as having a different meaning
-when it occurs in other scene backgrounds. We have developed an automatic
-anomalous video detection system by extracting the individual action from
-the video clips, followed by extracting also various scene-background
-characteristics related with the respective action, and represented as a
-Video Graph to be classified as an anomaly through a Graph Convolutional
-Networks. We also constructed a new database as the available databases
-could not be used in this experiment. Results of experiments show that the
-various anomalous actions videos have been successfully detected with
-higher recognition capability compared with that of the conventional
-methods."
+YEAR=2022
 }
 ```
 
