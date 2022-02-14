@@ -13,9 +13,6 @@ TITLE="Development of Anomalous Video Detection System using {Hybrid-Features}
 Analysis of Actions and {Scene-Backgrounds} Information",
 BOOKTITLE="2022 56th Annual Conference on Information Sciences and Systems (CISS)
 (CISS 2022)",
-ADDRESS="Princeton, USA",
-DAYS=9,
-MONTH=mar,
 YEAR=2022
 }
 ```
