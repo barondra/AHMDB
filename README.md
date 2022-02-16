@@ -16,5 +16,3 @@ BOOKTITLE="2022 56th Annual Conference on Information Sciences and Systems (CISS
 YEAR=2022
 }
 ```
-
-More details will be added soon..
