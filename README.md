@@ -1,6 +1,6 @@
 # Anomalous Human Motion DataBase (AHMDB)
 
-This is GitHub repository to store compilation of videos, namely AHMDB, as used in the experiments of our CISS'22 paper ["Development of Anomalous Video Detection System using Hybrid-Features Analysis of Actions and Scene-Backgrounds Information"](https://www.edas.info/ap/ciss2022/program.html#S1569602526). There are total of 4,903 and 1,128 short clips in training and testing folder respectively, with 274 of the testing videos are categorized as anomaly. Every video has been assigned both action label and normality label onto its name.  
+This is GitHub repository to store compilation of videos, namely AHMDB, as used in the experiments of our CISS'22 paper ["Development of Anomalous Video Detection System using Hybrid-Features Analysis of Actions and Scene-Backgrounds Information"](https://www.edas.info/ap/ciss2022/program.html#S1569602526). There are total of 4,903 and 1,128 short clips in training and testing folder respectively, with 274 of the testing videos are categorized as anomaly. Every video has been assigned both action label and normality label onto its name. You can download this dataset by cloning the repository.
 
 ## Citation
 
