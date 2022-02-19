@@ -2,7 +2,17 @@
 
 This is GitHub repository to store compilation of videos, namely AHMDB, as used in the experiments of our CISS'22 paper ["Development of Anomalous Video Detection System using Hybrid-Features Analysis of Actions and Scene-Backgrounds Information"](https://www.edas.info/ap/ciss2022/program.html#S1569602526). This will take you to the conference schedule at edas website that doesn't require you to log in.
 
-There are total of 4,903 and 1,128 short video clips in training and testing folder respectively, with 274 of the testing videos are categorized as anomaly. Every video has been assigned both action label and normality label onto its name, e.g., [anom_acrob_00001.avi](/Testing/anom_acrob_00001.avi?raw=true) has `acrobatics` action label and `anomalous` normality label.
+There are total of 4,903 and 1,128 short video clips in training and testing folder respectively, with 274 of the testing videos are categorized as anomaly. Every video has been assigned both action label and normality label onto its name, e.g., [anom_acrob_00001.avi](/Testing/anom_acrob_00001.avi?raw=true) has `acrobatics` action label and `anomalous` normality label. ***There is NO scene-background label.***
+
+1. Training folder
+   - [x] 4,903 normal videos
+2. Testing folder
+   - [x] 274 anomalous videos
+   - [x] 854 normal videos
+
+[anom_acrob_00001.avi](/Testing/anom_acrob_00001.avi?raw=true) preview:
+
+![anom_acrob_00001 gif preview](https://github.com/barondra/AHMDB/blob/main/Testing_anom_acrob_00001.gif) 
 
 
 
